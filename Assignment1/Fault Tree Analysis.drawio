@@ -1,0 +1,69 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="8RhsuqMUnCm4KRxbtHkM">
+    <mxGraphModel dx="973" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CEjK2bieYdH8SWGULcze-12" edge="1" parent="1" source="CEjK2bieYdH8SWGULcze-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CEjK2bieYdH8SWGULcze-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CEjK2bieYdH8SWGULcze-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span id=&quot;docs-internal-guid-6a5c72c0-7fff-b82e-abb1-a0b334b60b3a&quot;&gt;&lt;span style=&quot;font-size: 10pt; font-family: Aptos; background-color: transparent; font-variant: normal; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;TOP EVENT: &quot;AITU student portal becomes unavailable during a registration/examination period.&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="230" x="260" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CEjK2bieYdH8SWGULcze-14" edge="1" parent="1" source="CEjK2bieYdH8SWGULcze-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CEjK2bieYdH8SWGULcze-15" edge="1" parent="1" source="CEjK2bieYdH8SWGULcze-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="CEjK2bieYdH8SWGULcze-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CEjK2bieYdH8SWGULcze-16" edge="1" parent="1" source="CEjK2bieYdH8SWGULcze-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="CEjK2bieYdH8SWGULcze-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CEjK2bieYdH8SWGULcze-2" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="OR" vertex="1">
+          <mxGeometry height="60" width="120" x="315" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="CEjK2bieYdH8SWGULcze-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Load Balancer failure" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="CEjK2bieYdH8SWGULcze-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Campus Network failure" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="CEjK2bieYdH8SWGULcze-17" edge="1" parent="1" source="CEjK2bieYdH8SWGULcze-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="CEjK2bieYdH8SWGULcze-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CEjK2bieYdH8SWGULcze-18" edge="1" parent="1" source="CEjK2bieYdH8SWGULcze-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CEjK2bieYdH8SWGULcze-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CEjK2bieYdH8SWGULcze-5" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="AND" vertex="1">
+          <mxGeometry height="80" width="120" x="490" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="CEjK2bieYdH8SWGULcze-19" edge="1" parent="1" source="CEjK2bieYdH8SWGULcze-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CEjK2bieYdH8SWGULcze-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CEjK2bieYdH8SWGULcze-20" edge="1" parent="1" source="CEjK2bieYdH8SWGULcze-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="CEjK2bieYdH8SWGULcze-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CEjK2bieYdH8SWGULcze-6" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="AND" vertex="1">
+          <mxGeometry height="80" width="120" x="660" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="CEjK2bieYdH8SWGULcze-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="App A failure" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="CEjK2bieYdH8SWGULcze-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="App B failure" vertex="1">
+          <mxGeometry height="60" width="120" x="490" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="CEjK2bieYdH8SWGULcze-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Primary DB failure" vertex="1">
+          <mxGeometry height="60" width="120" x="640" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="CEjK2bieYdH8SWGULcze-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Standby DB failure" vertex="1">
+          <mxGeometry height="60" width="120" x="810" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="CEjK2bieYdH8SWGULcze-13" edge="1" parent="1" source="CEjK2bieYdH8SWGULcze-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.417;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="CEjK2bieYdH8SWGULcze-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
